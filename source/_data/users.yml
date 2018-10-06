@@ -132,7 +132,7 @@ sinazc:
   name: '新浪众测'
   icon: 'http://n.sinaimg.cn/tech/zcapp/zhongce_3x.png'
   iOS: 'https://itunes.apple.com/cn/app/id1309407290?mt=8'
-  android: ''
+  android: 'http://a.app.qq.com/o/simple.jsp?pkgname=com.sina.zhongce'
 bandou:
   name: '班豆'
   icon: 'https://app.bandou.cn/download/app/bandou.png'
